@@ -1,0 +1,1 @@
+This is a chrome extension to show IPL live scorecard without having the trouble of opening new tab. This was entirely designed to maintain focus on work as visiting JioCinema can take your 3hr without letting you know. 
